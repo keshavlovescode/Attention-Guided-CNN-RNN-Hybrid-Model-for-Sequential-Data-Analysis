@@ -13,4 +13,4 @@ pip install torch torchtext scikit-learn
 
 Run
 
-python train_models.py
+python maincode.py
