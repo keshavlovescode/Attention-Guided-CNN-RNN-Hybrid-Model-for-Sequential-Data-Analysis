@@ -7,3 +7,10 @@ The model is evaluated on benchmark sequential datasets and compared with standa
 To evaluate CNN–RNN hybrid models, publicly available benchmark datasets are commonly used. IMDB Movie Reviews Dataset
 The IMDB dataset contains 50,000 movie reviews labeled as positive or negative. Each review is represented as a
 sequence of words. The dataset is balanced and widely used for sentiment analysis.
+
+---------------------------------------Install dependencies---------------------------------------------------------------------
+pip install torch torchtext scikit-learn
+
+Run
+
+python train_models.py
